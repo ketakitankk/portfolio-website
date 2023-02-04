@@ -17,7 +17,7 @@ function App() {
       <BrowserRouter>
         <NavigationBar />
         <Routes>
-          <Route path="/portfolio-website" element={<HomePage />}></Route>
+          <Route path="/portfolio-website/" element={<HomePage />}></Route>
           <Route path="/portfolio-website/achievements" element={<Achievements />} />
           <Route path="/portfolio-website/experience" element={<Experience />}></Route>
           <Route path="/portfolio-website/education" element={<Education />}></Route>
