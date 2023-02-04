@@ -9,7 +9,7 @@ const Experience = () => {
   return (
     <div className='experience-box'>
       <img src={back} className="back1" alt='backarrow'></img>
-        <Link className='linkBackHome1' to="/">  Home </Link>
+        <Link className='linkBackHome1' to="/portfolio-website/">  Home </Link>
       <img className='heading' src={exp} alt="Experience-heading"></img>
       <div>
         <img className='RCOEM' src={aicte} alt="AICTE Virtual Internship"></img>

@@ -9,7 +9,7 @@ const TechStackSkills = () => {
     <div className='techStackSkills'>
       <div>
         <img src={back} className="back" alt='backarrow'></img>
-        <Link className='linkBackHome' to="/">  Home </Link>
+        <Link className='linkBackHome' to="/portfolio-website/">  Home </Link>
         <img src={Tech} className="heading-1" alt='heading'></img>
         <img src={skills} alt="skills" className='skills'></img>
       </div>

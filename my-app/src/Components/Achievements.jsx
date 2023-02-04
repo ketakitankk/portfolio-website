@@ -8,7 +8,7 @@ const Achievements = () => {
   return (
     <div>
       <img src={back} className="backk" alt='backarrow'></img>
-      <Link className='linkBackHomee' to="/">  Home </Link>
+      <Link className='linkBackHomee' to="/portfolio-website/">  Home </Link>
       <img src={Achievement} alt="achievements" className='achievements-heading'></img>
       <div className='text'>
           <ul >

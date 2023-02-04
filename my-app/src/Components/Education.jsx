@@ -10,7 +10,7 @@ const Education = () => {
   return (
     <div className='education-box'>
        <img src={back} className="back1" alt='backarrow'></img>
-        <Link className='linkBackHome1' to="/">  Home </Link>
+        <Link className='linkBackHome1' to="/portfolio-website/">  Home </Link>
       <img className='heading' src={edu} alt="Education-heading"></img>
       <div>
         <img className='RCOEM' src={RCOEM} alt="RCOEM"></img>
