@@ -11,19 +11,19 @@ const NavigationBar = () => {
         <div className='rectangle1'>
           <div className='techStackSkills'>
                 <p>
-                    <Link className='links' to="/techStack">tech stack & skills</Link>
+                    <Link className='links' to="/portfolio-website/techStack">tech stack & skills</Link>
                 </p>
           </div>
           <div className='achievements'>
-              <p><Link className='links' to="/achievements">achievements</Link></p>
+              <p><Link className='links' to="/portfolio-website/achievements">achievements</Link></p>
           </div>
           <div className='eduQualifications'>
                 <p>
-                    <Link className='links' to="/education">educational qualifications</Link></p>
+                    <Link className='links' to="/portfolio-website/education">educational qualifications</Link></p>
             </div>
             <div className='experience'>
                 <p>
-                    <Link className='links' to="/experience">experience</Link></p>
+                    <Link className='links' to="/portfolio-website/experience">experience</Link></p>
           </div>
         
             {/* <div className='contact'>
