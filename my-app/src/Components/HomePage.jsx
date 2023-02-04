@@ -21,7 +21,7 @@ const HomePage = () => {
               if you wish to connect with me :)
               
         </h6>
-        <button className='btn'>Send mail!</button>
+        <button className='link btn'><a href='mailto:tankkp@rknec.edu' className='link'>Send mail</a></button>
           </div>
       </div>
 

@@ -60,8 +60,8 @@
     border-color: white;
     width: 120px;
     height: 50px;
-    background-color: black;
-    color: azure;
+    background-color:rgb(36, 41, 45);
+    color: black;
     font-family: 'Playfair Display';
     display: block;
     margin-bottom: 20px;
@@ -70,8 +70,13 @@
 
 .btn:hover{
 
-    background-color: white;
+    background-color: black;
     color: black;
     border-color: black;
     cursor: pointer;
+}
+
+.link{
+    color:rgb(255, 255, 255);
+    text-decoration: none;
 }
