@@ -17,12 +17,12 @@ function App() {
       <BrowserRouter>
         <NavigationBar />
         <Routes>
-          <Route path="/" element={<HomePage />}></Route>
-          <Route path="/achievements" element={<Achievements />} />
-          <Route path="/experience" element={<Experience />}></Route>
-          <Route path="/education" element={<Education />}></Route>
-          <Route path="/contactMe" element={<Contact />}></Route>
-          <Route path="/techStack" element={<TechStackSkills />}></Route>
+          <Route path="/portfolio-website" element={<HomePage />}></Route>
+          <Route path="/portfolio-website/achievements" element={<Achievements />} />
+          <Route path="/portfolio-website/experience" element={<Experience />}></Route>
+          <Route path="/portfolio-website/education" element={<Education />}></Route>
+          <Route path="/portfolio-website/contactMe" element={<Contact />}></Route>
+          <Route path="/portfolio-website/techStack" element={<TechStackSkills />}></Route>
       
           <Route path="*" element={<NotFound/>}></Route>
           </Routes>
