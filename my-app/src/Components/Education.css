@@ -1,0 +1,37 @@
+.heading{
+    position: relative;
+    width: 30%;
+    left: 140px;
+    top: 60px;
+}
+
+.back1{
+    position: relative;
+    left: 110px;
+    width: 5px;
+    top: 50px;
+}
+
+.linkBackHome1{
+    position: relative;
+    left: 115px;
+    top: 50px;
+    text-decoration: none;
+    color: black;
+}
+
+.RCOEM{
+    position: relative;
+    top: 100px;
+    display: block;
+    margin: auto;
+    width: 60%;
+}
+
+.CPS{
+    position: relative;
+    top: 160px;
+    display: block;
+    margin: auto;
+    width: 60%;
+}

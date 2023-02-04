@@ -1,0 +1,25 @@
+.rectangle1{
+    position: relative;
+    min-width: 100%;
+    background: #FFFFFF;
+    text-align: center;
+    display: flex;
+    height: 60px;
+    justify-content: space-around;
+    box-shadow: 0px 2px 25px 1px rgba(0, 0, 0, 0.1);
+}
+
+.links{
+    color: black;
+    position: relative;
+    top: 20px;
+    font-family: 'Playfair Display';
+    bottom: 10px;
+    text-decoration: none;
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 0.02em;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 20px;
+}

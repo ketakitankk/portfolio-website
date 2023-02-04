@@ -1,0 +1,61 @@
+.achievements-heading{
+    width: 40%;
+    position: relative;
+    top: 50px;
+    left: 80px;
+    padding-bottom: 30px;
+}
+
+.text{
+    position: relative;
+    width: 70%;
+    top: 60px;
+    left: 120px;
+}
+
+.linkBackHomee{
+    position: relative;
+    top: 10px;
+    left: 25px;
+    color: black;
+    text-decoration: none;
+}
+
+.backk{
+    position: relative;
+    width: 5px;
+    top: 10px;
+    left: 22px;
+}
+
+.course{
+    width: 60%;
+    position: relative;
+    left: 80px;
+    top: 50px;
+}
+
+.courses-undertaken{
+    position: relative;
+    top: 80px;
+    width: 70%;
+    left: 145px;
+    padding-bottom: 60px;
+    font-size: 20px;
+}
+
+.courses{
+    position: relative;
+    font-family: 'Playfair Display';
+    font-weight: 400;
+    font-size: 20px;
+    top: 20px;
+    left: 20px;
+    color: black;
+}
+
+.link{
+    color: black;
+    /* position: relative; */
+    /* top: 20px; */
+}
