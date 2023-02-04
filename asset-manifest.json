@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.48af8415.css",
+    "main.js": "/portfolio-website/static/js/main.125fa378.js",
+    "static/media/skills.svg": "/portfolio-website/static/media/skills.864d8f6c6ba2c1c91a5683b825e281ea.svg",
+    "static/media/myImage.svg": "/portfolio-website/static/media/myImage.f5c59b94b1dc3d051c60fad2da69a625.svg",
+    "static/media/AICTE.svg": "/portfolio-website/static/media/AICTE.920d67a24c053c8d76755ef0428754d7.svg",
+    "static/media/RCOEMBox.svg": "/portfolio-website/static/media/RCOEMBox.b6e3cbffc4bfcd1eb579305423bce0ea.svg",
+    "static/media/CPSBox.svg": "/portfolio-website/static/media/CPSBox.47eb3337cfb04db8420eff1643dd902b.svg",
+    "static/media/Tech.svg": "/portfolio-website/static/media/Tech.28c710aab50b8894d62aabb460c67ae9.svg",
+    "static/media/courses.svg": "/portfolio-website/static/media/courses.bbbbcf66599bfe54175be06669ef1ad1.svg",
+    "static/media/Achievement.svg": "/portfolio-website/static/media/Achievement.f085aec662393e4f0e85eba19e0a9c2e.svg",
+    "static/media/Experience.svg": "/portfolio-website/static/media/Experience.12595e7ca22ac20dcc89b218068521f4.svg",
+    "static/media/myName.svg": "/portfolio-website/static/media/myName.b687030678223d5e27fd5580ef5a5813.svg",
+    "static/media/Education-heading.svg": "/portfolio-website/static/media/Education-heading.a7a29b42c87196022408b125b94c4bc8.svg",
+    "index.html": "/portfolio-website/index.html",
+    "main.48af8415.css.map": "/portfolio-website/static/css/main.48af8415.css.map",
+    "main.125fa378.js.map": "/portfolio-website/static/js/main.125fa378.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48af8415.css",
+    "static/js/main.125fa378.js"
+  ]
+}
